@@ -1,32 +1,11 @@
-# Projeto Cursos & Consultoria
+# :books: Projeto Cursos & Consultoria
+[![Status do Projeto](https://img.shields.io/badge/Status-Concluido-brightgreen?color=green)](#)
 
 ## Descrição
 
-O projeto **Cursos & Consultoria** é uma plataforma online que oferece uma variedade de cursos e serviços de consultoria na área da tecnologia. Desenvolvida com: JavaScript, ReactJS, Node.js, HTML, CSS e Bootstrap, a plataforma oferece uma experiência interativa e moderna para os usuários.
-
-## Clonando o Repositório
-
-Para clonar o repositório do projeto, siga as instruções abaixo:
-
-```
-git clone https://github.com/DelisG/cursos-consultoria.git
-```
-
-## Contribuindo
-
-Se você deseja contribuir para o projeto Cursos & Consultoria, siga as etapas abaixo:
-
-1. Faça um fork do repositório.
-2. Clone o fork em sua máquina local.
-3. Crie uma nova branch para sua contribuição.
-4. Implemente as alterações e melhorias desejadas.
-5. Faça o commit das suas alterações.
-6. Envie suas alterações para o seu repositório remoto.
-7. Abra um pull request no repositório principal.
+O projeto **Cursos & Consultoria** é uma plataforma online que oferece uma variedade de cursos e serviços de consultoria na área da tecnologia, oferecendo uma experiência interativa e moderna para os usuários.
 
 ## Tecnologias Utilizadas
-
-O projeto Cursos & Consultoria utiliza as seguintes tecnologias:
 
 - JavaScript: Linguagem de programação.
 - ReactJS: Biblioteca JavaScript para construção da interface do usuário.
@@ -35,9 +14,7 @@ O projeto Cursos & Consultoria utiliza as seguintes tecnologias:
 - CSS: Linguagem de estilização para personalização visual.
 - Bootstrap: Framework CSS para criação de layouts responsivos e estilização rápida.
 
-## Recursos
-
-A plataforma Cursos & Consultoria oferece os seguintes recursos:
+## Recursos da Plataforma
 
 - Catálogo de Cursos: Navegue e explore os diferentes cursos disponíveis na plataforma.
 - Serviços de Consultoria: Obtenha suporte especializado e consultoria personalizada em projetos específicos.
@@ -45,6 +22,40 @@ A plataforma Cursos & Consultoria oferece os seguintes recursos:
 - Interação com Usuários: Inscreva-se em cursos, faça perguntas e receba suporte direto dos instrutores.
 - Personalização de Perfil: Gerencie suas preferências e acompanhe seu progresso de aprendizado.
 
-🌟 Comece sua jornada de aprendizado e aprimoramento na área da tecnologia com o Cursos & Consultoria! 🚀
+## Clonando o Repositório
+
+Clone o repositório remoto para sua máquina local:
+
+```
+git clone https://github.com/DelisG/cursos-consultoria.git
+```
+
+## Contribuindo
+
+1. Clone o fork em sua máquina local:
+   ```bash
+   git clone https://github.com/SEU_USUARIO/cursos-consultoria.git
+   ```
+
+2. Crie uma nova branch para sua contribuição:
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+
+3. Implemente as alterações e melhorias desejadas.
+
+4. Faça o commit das suas alterações:
+   ```bash
+   git add .
+   git commit -m "Descrição das alterações"
+   ```
+
+5. Envie suas alterações para o seu repositório remoto:
+   ```bash
+   git push origin minha-contribuicao
+   ```
+
+6. Abra um pull request no repositório principal.
+7. Certifique-se de substituir "DelisG" pelo seu nome de usuário do GitHub e "cursos-consultoria" pelo nome do repositório em que você fez o fork.
 
 **Link do Repositório:** [Cursos & Consultoria](https://github.com/DelisG/cursos-consultoria.git)
