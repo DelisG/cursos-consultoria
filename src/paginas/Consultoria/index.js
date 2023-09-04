@@ -19,7 +19,7 @@ const Consultoria = () => {
 
   return (
     <div className={`bg-${temaBody} ${temaTexto} p-5`}>
-      <div className="mb-3">Consulta Serviço</div>
+      <div className="mb-3">Consulta Area de Serviço</div>
       <div className="form-floating mb-3 w-25">
         <input
           type="text"

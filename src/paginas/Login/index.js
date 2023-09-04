@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import logo from "../../assets/logo - Copia.png";
+import logo from "../../assets/logo.png";
 import { TemaContext } from "../../contexts/TemaContext";
 
 const Login = () => {
