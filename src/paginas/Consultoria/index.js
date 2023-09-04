@@ -30,7 +30,7 @@ const Consultoria = () => {
             setCep(event.target.value);
           }}
         />
-        <label htmlFor="floatingInput" className="text-secondary">Serviço:</label>
+        <label htmlFor="floatingInput" className="text-secondary">Digite o CEP</label>
       </div>
       <button
         className="w-25 btn btn-lg btn-warning"

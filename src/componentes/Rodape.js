@@ -123,9 +123,7 @@ const Rodape = () => {
         </div>
 
         <div className="d-flex flex-column text-secondary flex-sm-row justify-content-between py-4 my-4 border-top">
-          <p >
-            &copy; 2023 Delis Guerra, Todos os direitos reservados.
-          </p>
+          <p>&copy; 2023 Delis Guerra, Todos os direitos reservados.</p>
           <ul className="list-unstyled d-flex">
             <li className="ms-3">
               <a className="link-dark" href="https://twitter.com/Delisssz">
@@ -156,7 +154,7 @@ const Rodape = () => {
               </a>
             </li>
             <li className="ms-3">
-              <a className="link-dark" href="/">
+              <a className="link-dark" href="https://www.instagram.com/delisz/">
                 <svg
                   xmlns="https://www.instagram.com/delisz/"
                   width="30"

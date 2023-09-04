@@ -1,6 +1,10 @@
 # :books: Projeto Cursos & Consultoria
 [![Status do Projeto](https://img.shields.io/badge/Status-Concluido-brightgreen?color=green)](#)
 
+
+[Abrir projeto](https://cursos-consultoria.vercel.app/)
+
+
 ## Descrição
 
 O projeto **Cursos & Consultoria** é uma plataforma online que oferece uma variedade de cursos e serviços de consultoria na área da tecnologia, oferecendo uma experiência interativa e moderna para os usuários.

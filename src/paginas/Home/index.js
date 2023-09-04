@@ -10,7 +10,7 @@ const Home = () => {
 
   return (
     <>
-      <div className={`bg-${temaBody} ${temaTexto} algin-center`}>
+      <div className={`bg-${temaBody} ${temaTexto} algin-center p-8`}>
         <div id="carouselExampleCaptions" class="carousel slide">
           <div class="carousel-indicators">
             <button
@@ -34,13 +34,13 @@ const Home = () => {
               aria-label="Slide 3"
             ></button>
           </div>
-          <div class="carousel-inner">
+          <div class="carousel-inner mx-auto">
             <div class="carousel-item active">
               <img
                 src={javascript}
                 class="d-block w-100"
                 alt="imagem-carrossel"
-                height="800"
+                height="500"
               />
               <div class="carousel-caption d-none d-md-block text-secondary">
                 <h5>Curso JavaScript</h5>
@@ -55,7 +55,7 @@ const Home = () => {
                 src={php}
                 class="d-block w-100"
                 alt="imagem-carrossel"
-                height="800"
+                height="500"
               />
               <div class="carousel-caption d-none d-md-block text-secondary">
                 <h5>Curso PHP</h5>
@@ -70,7 +70,7 @@ const Home = () => {
                 src={java}
                 class="d-block w-100"
                 alt="imagem-carrossel"
-                height="800"
+                height="500"
               />
               <div class="carousel-caption d-none d-md-block text-secondary">
                 <h5>Curso Java</h5>

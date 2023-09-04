@@ -18,13 +18,14 @@ const Login = () => {
     <div className={`bg-${temaBody} ${temaTexto}`}>
       <form className="form-signin w-100 m-auto ">
         <div align="center">
-          <img
+          {/* <img
             className="mb-4 w-25"
             src={logo}
             alt="logo"
             width="350"
             height="170"
-          />
+          /> */}
+          <h1>Login</h1>
         </div>
         <div align="center" className="text-secondary">
           <div className="form-floating w-25 mb-3">
