@@ -1,65 +1,28 @@
-# :books: Projeto Cursos & Consultoria
-[![Status do Projeto](https://img.shields.io/badge/Status-Concluido-brightgreen?color=green)](#)
+# Cursos & Consultoria
 
+Site em React de uma plataforma fictícia de cursos e consultoria em tecnologia, com rotas, tema claro/escuro e consulta de endereço por CEP.
 
-[Abrir projeto](https://cursos-consultoria.vercel.app/)
+> **EN:** React website for a fictional tech courses and consulting platform, with routing, light/dark theme and address lookup by Brazilian ZIP code (CEP).
 
+<!-- Print da aplicação: salve a imagem em docs/print.png e remova este comentário -->
+<!-- ![Página inicial](docs/print.png) -->
 
-## Descrição
+[Ver o projeto publicado](https://cursos-consultoria.vercel.app/)
 
-O projeto **Cursos & Consultoria** é uma plataforma online que oferece uma variedade de cursos e serviços de consultoria na área da tecnologia, oferecendo uma experiência interativa e moderna para os usuários.
+## Funcionalidades
 
-## Tecnologias Utilizadas
+- Navegação entre Home, Cursos, Consultoria e Login com React Router
+- Tema claro e escuro com Context API
+- Catálogo de cursos renderizado a partir de dados mockados
+- Consulta de endereço por CEP com a API ViaCEP (Axios)
+- Tela de login que exibe o nome do usuário no cabeçalho (apenas front-end, sem autenticação)
+- Layout responsivo com Bootstrap 5
 
-- JavaScript: Linguagem de programação.
-- ReactJS: Biblioteca JavaScript para construção da interface do usuário.
-- Node.js: Ambiente de execução JavaScript do lado do servidor.
-- HTML: Linguagem de marcação para estruturação do conteúdo da plataforma.
-- CSS: Linguagem de estilização para personalização visual.
-- Bootstrap: Framework CSS para criação de layouts responsivos e estilização rápida.
+## Tecnologias
 
-## Recursos da Plataforma
+React 18 · React Router 6 · Context API · Axios · Bootstrap 5 · JavaScript
 
-- Catálogo de Cursos: Navegue e explore os diferentes cursos disponíveis na plataforma.
-- Serviços de Consultoria: Obtenha suporte especializado e consultoria personalizada em projetos específicos.
-- Interface Responsiva: Desfrute de uma experiência consistente em dispositivos móveis e desktops.
-- Interação com Usuários: Inscreva-se em cursos, faça perguntas e receba suporte direto dos instrutores.
-- Personalização de Perfil: Gerencie suas preferências e acompanhe seu progresso de aprendizado.
+## Autora
 
-## Clonando o Repositório
-
-Clone o repositório remoto para sua máquina local:
-
-```
-git clone https://github.com/DelisG/cursos-consultoria.git
-```
-
-## Contribuindo
-
-1. Clone o fork em sua máquina local:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/cursos-consultoria.git
-   ```
-
-2. Crie uma nova branch para sua contribuição:
-   ```bash
-   git checkout -b minha-contribuicao
-   ```
-
-3. Implemente as alterações e melhorias desejadas.
-
-4. Faça o commit das suas alterações:
-   ```bash
-   git add .
-   git commit -m "Descrição das alterações"
-   ```
-
-5. Envie suas alterações para o seu repositório remoto:
-   ```bash
-   git push origin minha-contribuicao
-   ```
-
-6. Abra um pull request no repositório principal.
-7. Certifique-se de substituir "DelisG" pelo seu nome de usuário do GitHub e "cursos-consultoria" pelo nome do repositório em que você fez o fork.
-
-**Link do Repositório:** [Cursos & Consultoria](https://github.com/DelisG/cursos-consultoria.git)
+**Delis Guerra**, Engenheira de Software Full Stack · Recife-PE
+[LinkedIn](https://www.linkedin.com/in/delisguerra) · [GitHub](https://github.com/Delisg)
