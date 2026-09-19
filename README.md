@@ -7,7 +7,7 @@ Site em React de uma plataforma fictícia de cursos e consultoria em tecnologia,
 <!-- Print da aplicação: salve a imagem em docs/print.png e remova este comentário -->
 <!-- ![Página inicial](docs/print.png) -->
 
-[Ver o projeto publicado](https://cursos-consultoria.vercel.app/)
+<!-- [Ver o projeto publicado](https://cursos-consultoria.vercel.app/) -->
 
 ## Funcionalidades
 
